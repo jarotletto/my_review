@@ -1,0 +1,10 @@
+.footer{
+    width: 100vh;
+    height: 10vw;
+    padding: 0 20%;
+    margin: 0;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    background-color: blueviolet;
+}
